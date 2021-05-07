@@ -17,7 +17,7 @@ For detailed explanation, please check out `main.ipynb`.
 
     (h) Subtracting it from the sampling ring leaves only the defects, which are dilated by structure element **defect_cue**.
 
-5. Show the output images.
+5. Mark the defected gears using red rectangles on the output images.
 
 ## Example figures
 
